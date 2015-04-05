@@ -1,0 +1,24 @@
+--simulator
+
+--duck pond
+modes 
+{
+    - 1v1v1v1v1
+
+    --multiplayer
+
+    5v5v5v5
+    transmit >> range with certain range
+
+    -- one shot kill
+}
+
+tracking-website
+{
+    show battles
+    tournaments
+
+}
+
+--race track
+gas,rem draai, kijk alleen voor je
